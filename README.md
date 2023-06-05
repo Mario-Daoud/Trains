@@ -25,9 +25,6 @@
 * Ability to retrieve a list of all trains between two stations. The API call will include the IDs of the starting location and destination.
 * Ability to retrieve a list of all users
 
-## Development Environment
-<img src="https://user-images.githubusercontent.com/113902874/227750441-aec42cee-048f-4d52-940e-b540ccb82c28.png" alt="logo" height="60px"> <img src="https://user-images.githubusercontent.com/113902874/227750447-36683c38-55f5-4dc6-b9c5-d33b5f167d0c.png" alt="logo" height="60px"> <img src="https://user-images.githubusercontent.com/113902874/227750438-421e706a-1b7b-40d1-a41e-e7b4a877cda8.png" alt="logo" height="60px"> <img src="https://user-images.githubusercontent.com/113902874/227750569-1fa4bb39-890f-467a-adcb-c166e1f54a38.png" alt="logo" height="60px"> <img src="https://user-images.githubusercontent.com/113902874/227750575-c4cf2b4c-b754-4a18-b6fd-351dbe856259.png" alt="logo" height="60px">
-
 ## Preview
 #### Homepage
 <img src="https://github.com/Mario-Daoud/sprj_Trains/assets/113902874/022ceffe-4ad3-489d-a6ee-f0933ffa275f" width="500px" height="auto"/>
