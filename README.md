@@ -47,7 +47,3 @@
 <img src="https://github.com/Mario-Daoud/sprj_Trains/assets/113902874/0a60abdf-a441-410f-aac5-c03852e77cd3" height="240px"/>
 <img src="https://github.com/Mario-Daoud/sprj_Trains/assets/113902874/34ae7181-03ea-4db0-8ecd-b149c098a017" height="240px"/>
 <img src="https://github.com/Mario-Daoud/sprj_Trains/assets/113902874/f42d0e40-d0a8-438c-84ee-45a0e146d8fd" height="240px"/>
-
-## Contributors
-<div><img src="https://user-images.githubusercontent.com/113902874/236906567-44d19d97-0190-4b8b-a4c1-7d0ce1260cf5.gif" height="30px"/> Vince Vervaele </div>
-<div><img src="https://user-images.githubusercontent.com/113902874/236906567-44d19d97-0190-4b8b-a4c1-7d0ce1260cf5.gif" height="30px"/> Mario Daoud </div>
